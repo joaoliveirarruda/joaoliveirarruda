@@ -1,5 +1,5 @@
-Estudante de Ciência da Computação na UFPB
+swe intern @ sefaz | cs @ ufpb
 
 ---
 
-[GitHub](https://github.com/joaoliveirarruda)
+[joaoliveirarruda.github.io](https://joaoliveirarruda.github.io/)
